@@ -10,6 +10,7 @@ public class ConflictTest {
     public void test2(){
         String m = "blabla";
 
+
     }
 
 }
