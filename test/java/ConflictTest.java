@@ -6,6 +6,7 @@ public class ConflictTest {
     public void test1(){
         int a = 1;
         int b = 5;
+        int c =a+b;
         System.out.println(a+b+a+a);
     }
     @Test
