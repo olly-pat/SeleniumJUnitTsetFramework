@@ -11,7 +11,7 @@ public class ConflictTest {
     }
     @Test
     public void test2(){
-        String m = "blablalaaaaagit";
+        String m = "blablalaaaaagit yo";
         Assertions.assertTrue(m.equals("blab"));
 
     }
