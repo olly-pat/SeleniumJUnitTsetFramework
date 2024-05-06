@@ -10,7 +10,7 @@ public class ConflictTest {
     }
     @Test
     public void test2(){
-        String m = "blabla";
+        String m = "blablalaaaaagit";
         Assertions.assertTrue(m.equals("blab"));
 
     }
